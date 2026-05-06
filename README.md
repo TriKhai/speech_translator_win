@@ -22,7 +22,7 @@
 - Python **3.10**
 - Windows 10/11 (có hỗ trợ build `.exe` qua PyInstaller)
 - Microphone hoặc file audio
-- (Tuỳ chọn) GPU NVIDIA để tăng tốc Whisper
+- Máy có CPU càng yếu thì càng lag
 
 ---
 
