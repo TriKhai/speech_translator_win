@@ -31,7 +31,7 @@
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/TriKhai/speech-translator.git
+git clone https...
 cd speech-translator
 ```
 
